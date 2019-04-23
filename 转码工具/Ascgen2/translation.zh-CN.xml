@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+<data name="&amp;About">
+<VALUE>关于(&amp;A)</VALUE>
+</data>
+<data name="Add File">
+<VALUE>添加文件</VALUE>
+</data>
+<data name="&amp;Cancel">
+<VALUE>取消(&amp;C)</VALUE>
+</data>
+<data name="&amp;Close">
+<VALUE>关闭(&amp;C)</VALUE>
+</data>
+<data name="Convert">
+<VALUE>转换</VALUE>
+</data>
+<data name="&amp;Default">
+<VALUE>默认(&amp;D)</VALUE>
+</data>
+<data name="&amp;Donate">
+<VALUE>捐赠(&amp;D)</VALUE>
+</data>
+  <data name="FAQ">
+    <VALUE>常见问题</VALUE>
+  </data>
+  <data name="&amp;File">
+<VALUE>文件(&amp;F)</VALUE>
+</data>
+<data name="&amp;Full Screen">
+<VALUE>全屏(&amp;F)</VALUE>
+</data>
+<data name="&amp;Help">
+<VALUE>帮助(&amp;H)</VALUE>
+</data>
+<data name="&amp;Load Image">
+<VALUE>载入图片(&amp;L)</VALUE>
+</data>
+<data name="&amp;Ok">
+<VALUE>确定(&amp;O)</VALUE>
+</data>
+<data name="Remove">
+<VALUE>删除</VALUE>
+</data>
+<data name="&amp;Save">
+<VALUE>保存(&amp;S)</VALUE>
+</data>
+<data name="&amp;Settings">
+<VALUE>设置(&amp;S)</VALUE>
+</data>
+<data name="&amp;View">
+<VALUE>显示(&amp;V)</VALUE>
+</data>
+<data name="{0:yyyyMMddHHmmss}">
+<VALUE> {0：YYYYMMDDHHMMSS} </VALUE>
+</data>
+<data name="{0} file(s) converted, {1} error(s)">
+<VALUE> {0}个文件已转换，{1}个失败（S）</VALUE>
+</data>
+<data name="Add Directory">
+<VALUE>添加目录</VALUE>
+</data>
+<data name="Adjust Levels">
+<VALUE>调整色阶</VALUE>
+</data>
+  <data name="Advanced">
+    <VALUE>高级</VALUE>
+  </data>
+  <data name="All Files">
+<VALUE>所有文件</VALUE>
+</data>
+<data name="already exists">
+<VALUE>已经存在</VALUE>
+</data>
+<data name="ASCII Ramp">
+<VALUE>ASCII渐变</VALUE>
+</data>
+<data name="Auto">
+<VALUE>自动</VALUE>
+</data>
+<data name="automatically calculated">
+<VALUE>自动计算</VALUE>
+</data>
+<data name="Batch Conversion">
+<VALUE>批量转换</VALUE>
+</data>
+<data name="Batch conversion cancelled">
+<VALUE>批量转换取消</VALUE>
+</data>
+<data name="Batch conversion started, {0} file(s) to process">
+<VALUE>批量转换开始，{0}个文件在队列中</VALUE>
+</data>
+<data name="Batch finished">
+<VALUE>批次完成</VALUE>
+</data>
+<data name="Bitmap Images">
+<VALUE>位图图像</VALUE>
+</data>
+<data name="Black and White">
+<VALUE>黑色和白色</VALUE>
+</data>
+<data name="Black Text on White">
+<VALUE>白色黑色文字</VALUE>
+</data>
+<data name="Black Text on White Background">
+<VALUE>白底黑字</VALUE>
+</data>
+<data name="bold">
+<VALUE>大胆</VALUE>
+</data>
+<data name="Brightness">
+<VALUE>亮度</VALUE>
+</data>
+<data name="British English">
+<VALUE>简体中文 汉化：凡帆[Phanphan]</VALUE>
+</data>
+<data name="C&amp;lose">
+<VALUE>关闭(&amp;)</VALUE>
+</data>
+<data name="Character Size">
+<VALUE>字符大小</VALUE>
+</data>
+<data name="Characters">
+<VALUE>字符</VALUE>
+</data>
+<data name="Check for a New Version">
+<VALUE>检查新版本</VALUE>
+</data>
+<data name="Choose the Font">
+<VALUE>选择字体</VALUE>
+</data>
+<data name="Choose the Magnification Level">
+<VALUE>选择放大级别</VALUE>
+</data>
+<data name="Clear">
+<VALUE>清除</VALUE>
+</data>
+<data name="Click and drag on an image to select an area">
+<VALUE>在图像上点击并拖动来选择一个区域</VALUE>
+</data>
+<data name="Colour">
+<VALUE>彩色</VALUE>
+</data>
+<data name="Colour Preview">
+<VALUE>彩色文本预览</VALUE>
+</data>
+<data name="Colour Print Preview">
+<VALUE>彩色打印预览</VALUE>
+</data>
+<data name="Confirm close if unsaved">
+<VALUE>未保存时关闭需确认</VALUE>
+</data>
+<data name="Contrast">
+<VALUE>对比度</VALUE>
+</data>
+<data name="Controls">
+<VALUE>控制</VALUE>
+</data>
+<data name="Converting">
+<VALUE>转换</VALUE>
+</data>
+<data name="Copy">
+<VALUE>复制</VALUE>
+</data>
+<data name="Copy Ramp to Clipboard">
+<VALUE>复制到剪贴板</VALUE>
+</data>
+<data name="Could not load translation file '{0}'">
+<VALUE>无法加载语言文件"{0}"</VALUE>
+</data>
+<data name="Date/Time">
+<VALUE>日期/时间</VALUE>
+</data>
+<data name="DefaultWidth and/or DefaultHeight must be > 0">
+<VALUE> 默认宽和/或默认高必须大于0 </VALUE>
+</data>
+<data name="Dither">
+<VALUE>抖动</VALUE>
+</data>
+<data name="Dithering Amount">
+<VALUE>抖动量</VALUE>
+</data>
+<data name="Doubleclick to load an image, or drag and drop here.">
+<VALUE>双击加载图像，或拖放在这里</VALUE>
+</data>
+<data name="E&amp;xit">
+<VALUE>退出(&amp;x) </VALUE>
+</data>
+<data name="Edit">
+<VALUE>编辑(&amp;E)</VALUE>
+</data>
+<data name="Edit Settings">
+<VALUE>修改设置</VALUE>
+</data>
+<data name="Effects">
+<VALUE>效果</VALUE>
+</data>
+<data name="Enter the characters to be used for generating the ramp">
+<VALUE>输入要生成的渐变所使用的字符</VALUE>
+</data>
+<data name="Error">
+<VALUE>错误</VALUE>
+</data>
+<data name="Error converting the image">
+<VALUE>图像转换错误</VALUE>
+</data>
+<data name="Error saving to {0}">
+<VALUE>保存到{0}出错 </VALUE>
+</data>
+<data name="Error with settings file '{0}'">
+<VALUE>设置文件"{0}"出错</VALUE>
+</data>
+<data name="Exchangeable Image Files">
+<VALUE>可替换图像文件</VALUE>
+</data>
+<data name="File Not Found">
+<VALUE>文件未找到</VALUE>
+</data>
+<data name="Files to be converted">
+<VALUE>文件要转换</VALUE>
+</data>
+<data name="Fill Selected Area">
+<VALUE>填充选定的区域</VALUE>
+</data>
+<data name="Flip Horizontally">
+<VALUE>水平翻转</VALUE>
+</data>
+<data name="Flip Vertically">
+<VALUE>垂直翻转</VALUE>
+</data>
+<data name="Flipped Horizontally">
+<VALUE>水平翻转</VALUE>
+</data>
+<data name="Flipped Vertically">
+<VALUE>垂直翻转</VALUE>
+</data>
+<data name="Font">
+<VALUE>字体</VALUE>
+</data>
+<data name="Fonts">
+<VALUE>字体</VALUE>
+</data>
+<data name="For The Best Effect This Text Should Be Readable">
+<VALUE>为了最佳效果，此文本应可阅读</VALUE>
+</data>
+<data name="Full Screen">
+<VALUE>全屏</VALUE>
+</data>
+<data name="Generated">
+<VALUE>生成</VALUE>
+</data>
+<data name="GIF Images">
+<VALUE> GIF图像</VALUE>
+</data>
+<data name="I&amp;mport from Clipboard">
+<VALUE>从剪贴板导入</VALUE>
+</data>
+<data name="Image">
+<VALUE>图片</VALUE>
+</data>
+<data name="Image Files">
+<VALUE>图像文件</VALUE>
+</data>
+<data name="Input">
+<VALUE>输入</VALUE>
+</data>
+<data name="Input Directory">
+<VALUE>输入目录</VALUE>
+</data>
+<data name="Input Image">
+<VALUE>输入图片</VALUE>
+</data>
+<data name="Input Text Sample">
+<VALUE>输入文字示例</VALUE>
+</data>
+<data name="Invalid ASCII Ramp">
+<VALUE>无效的ASCII渐变字符</VALUE>
+</data>
+<data name="Invalid Directory">
+<VALUE>无效目录</VALUE>
+</data>
+<data name="Invalid or unsupported file">
+<VALUE>无效或不支持的文件</VALUE>
+</data>
+<data name="Invalid Output Directory">
+<VALUE>无效的输出目录</VALUE>
+</data>
+<data name="Invalid Output Size">
+<VALUE>无效的输出尺寸</VALUE>
+</data>
+<data name="Invalid settings file. Please delete it or save a new one">
+<VALUE>无效的设置文件。请删除或保存一个新的文件</VALUE>
+</data>
+<data name="Invert Selection">
+<VALUE> 反向选择</VALUE>
+</data>
+<data name="Invert the Output">
+<VALUE>反向输出</VALUE>
+</data>
+<data name="italic">
+<VALUE>斜体</VALUE>
+</data>
+<data name="JPEG Images">
+<VALUE> JPEG图像</VALUE>
+</data>
+<data name="Language">
+<VALUE>语言</VALUE>
+</data>
+<data name="Levels">
+<VALUE>色阶</VALUE>
+</data>
+<data name="Levels Adjustment">
+<VALUE>色阶调整</VALUE>
+</data>
+<data name="Lock Selected Area">
+<VALUE>锁定选择区域</VALUE>
+</data>
+<data name="Lock Aspect Ratio">
+<VALUE>锁定高宽比</VALUE>
+</data>
+<data name="Log">
+<VALUE>日志</VALUE>
+</data>
+<data name="Magnification">
+<VALUE>倍率</VALUE>
+</data>
+<data name="Max">
+<VALUE>最大</VALUE>
+</data>
+<data name="Maximum">
+<VALUE>最大</VALUE>
+</data>
+<data name="Med">
+<VALUE>中等</VALUE>
+</data>
+<data name="Median">
+<VALUE>中等的</VALUE>
+</data>
+<data name="Min">
+<VALUE>最小</VALUE>
+</data>
+<data name="Minimum">
+<VALUE>最小的</VALUE>
+</data>
+<data name="New version check">
+<VALUE>检查新版本</VALUE>
+</data>
+<data name="None">
+<VALUE>无</VALUE>
+</data>
+<data name="Open the download page">
+<VALUE>打开下载页面</VALUE>
+</data>
+<data name="Out of Memory, Could not convert the image">
+<VALUE>内存不足，无法转换图片</VALUE>
+</data>
+<data name="Output">
+<VALUE>输出</VALUE>
+</data>
+<data name="Output as">
+<VALUE>另输出为</VALUE>
+</data>
+<data name="Output Directory">
+<VALUE>输出目录</VALUE>
+</data>
+<data name="Output Filenames">
+<VALUE>输出文件名</VALUE>
+</data>
+<data name="Output Image Sample">
+<VALUE>输出图像示例</VALUE>
+</data>
+<data name="Output Levels - Minimum: {0}, Median: {1}, Maximum: {2}">
+{1}，<VALUE>输出级别(Levels) - 最低: {0}, 中等: {1}, 最高: {2}</VALUE>
+</data>
+<data name="Output Size">
+<VALUE>输出尺寸</VALUE>
+</data>
+<data name="Output Size: {0}x{1} characters">
+<VALUE>输出尺寸: {0}x{1} 字符</VALUE>
+</data>
+<data name="Page Setup">
+<VALUE>页面设置</VALUE>
+</data>
+<data name="pixels">
+<VALUE>像素</VALUE>
+</data>
+<data name="Plain Text">
+<VALUE>纯文本</VALUE>
+</data>
+<data name="Please enter an output directory">
+<VALUE>请输入输出目录</VALUE>
+</data>
+<data name="Portable Network Graphics Images">
+<VALUE>便携式网络图形图像</VALUE>
+</data>
+<data name="Prefix">
+<VALUE>前缀</VALUE>
+</data>
+<data name="Print">
+<VALUE>打印</VALUE>
+</data>
+<data name="Print Colour">
+<VALUE>打印彩色</VALUE>
+</data>
+<data name="Print Error">
+<VALUE>打印错误</VALUE>
+</data>
+<data name="Print Preview">
+<VALUE>打印预览</VALUE>
+</data>
+<data name="Ramp">
+<VALUE>渐变字符</VALUE>
+</data>
+<data name="Ramps">
+<VALUE>渐变字符</VALUE>
+</data>
+<data name="Random">
+<VALUE>随机</VALUE>
+</data>
+<data name="Remove All">
+<VALUE>全部删除</VALUE>
+</data>
+<data name="Remove File After Conversion">
+<VALUE>转换后删除文件</VALUE>
+</data>
+<data name="Remove Selection">
+<VALUE>删除选择</VALUE>
+</data>
+<data name="Report a Bug">
+<VALUE>报告错误</VALUE>
+</data>
+<data name="Request a Feature">
+<VALUE>请求增加功能</VALUE>
+</data>
+<data name="Automatically Generate a Ramp">
+<VALUE>自动生成渐变字符</VALUE>
+</data>
+<data name="Reset">
+<VALUE>重置</VALUE>
+</data>
+<data name="Rich Text">
+<VALUE>富文本</VALUE>
+</data>
+<data name="Rotate">
+<VALUE>旋转</VALUE>
+</data>
+<data name="Rotate Clockwise">
+<VALUE>顺时针旋转</VALUE>
+</data>
+<data name="Rotate Anticlockwise">
+<VALUE>逆时针旋转</VALUE>
+</data>
+<data name="Save">
+<VALUE>保存</VALUE>
+</data>
+<data name="Save As">
+<VALUE>保存(&amp;S)</VALUE>
+</data>
+<data name="Save Log As">
+<VALUE>日志另存为</VALUE>日志
+</data>
+<data name="Save the output before closing">
+<VALUE>关闭前保存输出</VALUE>
+</data>
+<data name="Save to a Text File">
+<VALUE>保存到文本文件</VALUE>
+</data>
+<data name="saved">
+<VALUE>保存</VALUE>
+</data>
+<data name="Saving">
+<VALUE>保存</VALUE>
+</data>
+<data name="Saving output as">
+<VALUE>输出另存为</VALUE>
+</data>
+<data name="Select a directory from which to import image files">
+<VALUE>选择文件夹来导入图片文件</VALUE>
+</data>
+<data name="Select All">
+<VALUE>全选</VALUE>
+</data>
+<data name="Select None">
+<VALUE>不选</VALUE>
+</data>
+<data name="Select the directory in which to save the converted images">
+<VALUE>选择保存转换后的图像的目录</VALUE>
+</data>
+<data name="Selection Area Border Colour">
+<VALUE>选择区域边框颜色</VALUE>
+</data>
+<data name="Selection Area Fill Colour">
+<VALUE>选择区域填充颜色</VALUE>
+</data>
+<data name="Sharpen">
+<VALUE>锐化</VALUE>
+</data>
+<data name="Sharpened">
+<VALUE>锐化的</VALUE>
+</data>
+<data name="Sharpening Mask">
+<VALUE>锐化蒙版</VALUE>
+</data>
+<data name="Sharpening Method">
+<VALUE>锐化方式</VALUE>
+</data>
+<data name="Show Extension">
+<VALUE>显示范围</VALUE>
+</data>
+<data name="Show Full Path">
+<VALUE>显示完整路径</VALUE>
+</data>
+  <data name="Show Log">
+    <VALUE>显示日志</VALUE>
+  </data>
+  <data name="shrunk to {0}%">
+<VALUE>缩小{0}％</VALUE>
+</data>
+<data name="Size">
+<VALUE>大小</VALUE>
+</data>
+<data name="Some characters may not make it in to the ramp">
+<VALUE>有些字符可能无法渐变</VALUE>
+</data>
+<data name="Specify Character Size">
+<VALUE>自定义字符大小</VALUE>
+</data>
+<data name="Stretch">
+<VALUE>随机变化</VALUE>
+</data>
+<data name="Stretched">
+<VALUE>随机变化</VALUE>
+</data>
+<data name="strikeout">
+<VALUE>删除线</VALUE>
+</data>
+<data name="Suffix">
+<VALUE>下标</VALUE>
+</data>
+<data name="Target Character Size: {0}x{1} pixels{2}">
+<VALUE>目标字符大小：{0}x{1}像素{2} </VALUE>
+</data>
+<data name="Target Font: {0} {1}pt{2}{3}{4}{5}">
+<VALUE>目标字体：{0} {1} PT {2} {3} {4} {5} </VALUE>
+</data>
+<data name="Text">
+<VALUE>文本</VALUE>
+</data>
+<data name="Text Brightness: {0}, Text Contrast: {1}">
+<VALUE>文本亮度：{0}，文本对比度：{1} </VALUE>
+</data>
+<data name="Text Settings">
+<VALUE>文本设置</VALUE>
+</data>
+<data name="This is the latest version">
+<VALUE>这是最新版本</VALUE>
+</data>
+<data name="TIF Images">
+<VALUE> TIF图像</VALUE>
+</data>
+<data name="Tutorials">
+<VALUE>教程</VALUE>
+</data>
+<data name="Unable to select this font">
+<VALUE>无法选择该字体</VALUE>
+</data>
+<data name="underline">
+<VALUE>下划线</VALUE>
+</data>
+<data name="Unknown or Unsupported File">
+<VALUE>未知或不支持的文件</VALUE>
+</data>
+  <data name="Update while Selection Changes">
+    <VALUE>选区变化时即时更新</VALUE>
+  </data>
+  <data name="Unsharp Mask">
+<VALUE>USM锐化</VALUE>
+</data>
+<data name="Valid Characters">
+<VALUE>有效字符</VALUE>
+</data>
+<data name="Version">
+<VALUE>版本</VALUE>
+</data>
+<data name="Version {0} is available">
+<VALUE>版本{0}可用</VALUE>
+</data>
+<data name="Warning">
+<VALUE>警告</VALUE>
+</data>
+<data name="White Text on Black Background">
+<VALUE>黑底白字</VALUE>
+</data>
+<data name="Windows Metafile Images">
+<VALUE> Windows Metafile 图像</VALUE>
+</data>
+<data name="Zoom In">
+<VALUE>放大</VALUE>
+</data>
+<data name="Zoom Out">
+<VALUE>缩小</VALUE>
+</data>
+</ROOT>
