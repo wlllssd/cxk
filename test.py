@@ -14,7 +14,7 @@ for txt in txtLists:
 	with open(txtPath+'\\'+txt,'r',encoding='utf-8') as t:
 		lines = t.readlines()
 		for line in lines:
-			print(line[10:-10],end='')
+			print(line,end='')
 		print()
 	time.sleep(0.5)
 	os.system('cls')
